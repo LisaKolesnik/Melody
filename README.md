@@ -1,2 +1,2 @@
-# Melody
-Учебный проект Glo Academy
+# Melody - Учебный проект Glo Academy
+## Проект выполнила: Lisa Kolesnik
