@@ -195,10 +195,6 @@ path.current-floor {
   opacity: 1;
 }
 
-path.current-flat {
-  opacity: 1;
-}
-
 .modal-title {
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
